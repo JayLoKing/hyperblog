@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y GitHub de Platzi
 * Mi mejora al Readme :) 
 * Creado por mi.
 * Incluye un ejemplo de Windows (nose de linux ni mac pipipi)
+* Disponible solo para mi.
 
 Y como recordatorio
