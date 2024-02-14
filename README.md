@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y GitHub de Platzi
 * El flujo de Trabajo
 * Mi mejora al Readme :) 
 * Creado por mi.
+* Incluye un ejemplo de Windows (nose de linux ni mac pipipi)
 
 Y como recordatorio
