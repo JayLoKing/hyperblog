@@ -6,5 +6,6 @@ Un blog increible para el curso de Git y GitHub de Platzi
 ##En este curso vemos de todo: 
 * Todos los camandos de Git
 * El flujo de Trabajo
+* Mi mejora al Readme :) 
 
 Y como recordatorio
